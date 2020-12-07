@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **VIO** in the field of AR
 - 🌱 I’m currently learning **vSLAM**, **Multi-Sensor Fusion Localization**, **HPC**, *State Estimation for Robotics* and *MVG in Computer Vision*
-- 🤔 I’m looking for help with **HPC for Android Native App**
 - 💬 Ask me about **C++**, **Computer Vision** and **vSLAM**
 - 📫 How to reach me: [![Linkledin Badge](https://img.shields.io/badge/-cggos-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/cggos/)](https://www.linkedin.com/in/cggos/)
