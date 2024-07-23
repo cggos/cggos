@@ -1,5 +1,5 @@
 
-<!-- Quotes 名人名言 -->
+<!-- Quotes 名人名言 
 <div align="center">
   <picture>
     <source media="(prefers-color-schem: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -7,6 +7,7 @@
     <img witdh="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
   </picture>
 </div>
+-->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div>
