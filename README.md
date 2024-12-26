@@ -13,8 +13,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cggos)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cggos)
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!--
 <div>
