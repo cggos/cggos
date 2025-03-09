@@ -9,9 +9,11 @@
 </div>
 -->
 
+<!--
 ![Gavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cggos)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cggos)
+-->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!--
